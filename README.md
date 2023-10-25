@@ -5,7 +5,7 @@ Introduction to Machine Learning Project
 Welcome to our project repository, stemming from our "Introduction to Machine Learning" class. This endeavor has been instrumental in deepening our understanding of various machine learning concepts and methodologies.
 
 
-Overview
+**Overview**
 Foundations: Built foundational knowledge on creating machine learning models from scratch.
 Algorithms & Models Explored:
 Linear Regression
@@ -16,5 +16,5 @@ Ensemble Methods
 
 
 
-Key Learnings
+**Key Learnings** :
 Through this project, we delved into the nuances of various machine learning algorithms, understanding their strengths, limitations, and appropriate applications. It was a journey from grasping the basic concepts to applying them in practice, leading to a comprehensive learning experience.

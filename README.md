@@ -1,5 +1,5 @@
 # Prediction_of_Co2_from_Vehicles-
-Used various supervised machine learning models to predict the co2 emission.
+Used various supervised machine learning models to predict the co2 emission.This was done by me and three other people from my coursework.
 
 Introduction to Machine Learning Project
 Welcome to our project repository, stemming from our "Introduction to Machine Learning" class. This endeavor has been instrumental in deepening our understanding of various machine learning concepts and methodologies.
